@@ -4,7 +4,7 @@ https://reem-shaikh.github.io/react-pages/
 -----
 # Getting Started with React App Deployment 
 
-### 1. Create an empty folder (eg: named react-apps), git bash and type these commands 
+### 1. Git bash in the drive you want to create the folder in the local and type these commands after creating a repo on Git
 ```bash 
  git clone https://github.com/reem-shaikh/react-pages.git
 ```
