@@ -21,7 +21,7 @@ npm install gh-pages --save-dev
 ### 2. Add homepage to package.json 
 > Add this commands in package.json after "name"
 ```bash 
-"homepage": "https://reem-shaikh.github.io/react-apps/react-pages",
+"homepage": "https://reem-shaikh.github.io/react-pages",
 ```
 ### 3. deploy to scripts in package.json 
 > Add this command in scripts 
