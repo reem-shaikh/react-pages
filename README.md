@@ -1,8 +1,4 @@
-#### Testing the Deployment of the react app
-https://reem-shaikh.github.io/react-pages/
-
------
-# Getting Started with React App Deployment 
+# Deploying React App using Git pages 
 
 ### 1. Git bash in the drive you want to create the folder in the local and type these commands after creating a repo on Git
 ```bash 
